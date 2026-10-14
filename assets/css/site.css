@@ -84,7 +84,12 @@ p{margin:0; text-wrap:pretty}
 .topbar .cities a::before{content:""; width:5px; height:5px; border-radius:50%; background:var(--gold)}
 .topbar .cities a:hover{color:var(--on-night)}
 .topbar .tel{color:var(--on-night); text-decoration:none; display:inline-flex; align-items:center; min-height:44px; white-space:nowrap}
-@media (max-width:640px){ .topbar .hide-sm{display:none} .topbar .cities{gap:10px; font-size:.78rem} }
+@media (max-width:640px){
+  .topbar .tel{display:none}
+  .topbar .wrap{justify-content:center}
+  .topbar .cities{gap:16px; font-size:.82rem; flex-wrap:nowrap}
+  .preview-ribbon .more{display:none}
+}
 
 header.site{position:sticky; top:0; z-index:var(--z-header); background:color-mix(in srgb, var(--paper) 88%, transparent); backdrop-filter:saturate(1.2) blur(12px); -webkit-backdrop-filter:saturate(1.2) blur(12px); border-bottom:1px solid transparent; transition:border-color .3s}
 header.site.scrolled{border-bottom-color:var(--line)}
