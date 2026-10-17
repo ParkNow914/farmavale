@@ -1,0 +1,23 @@
+# Farmavale Farmácia de Manipulação
+
+> Farmácia de manipulação no Vale do Paraíba (SP) desde fevereiro de 2001, com unidades em Lorena (matriz), Guaratinguetá e Cruzeiro. Prepara medicamentos manipulados a partir de prescrição de profissional habilitado. Pedidos e orçamentos pelo WhatsApp de cada unidade.
+
+## Unidades
+
+- [Farmavale Lorena](https://autarktech.com.br/farmavale/lorena/): Avenida Doutor Pedro Vicente Azevedo, 244, Centro, Lorena, SP, CEP 12606-050. Telefone (12) 3157-1510. WhatsApp (12) 99661-0833. Horário: Segunda a sexta: 8h às 19h; Sábado: 8h às 13h30; Domingo: Fechada. Farmacêutica responsável: Ana Carolina Silva Martins, CRF-SP 124108. AFE Anvisa 0.13916-2.
+- [Farmavale Guaratinguetá](https://autarktech.com.br/farmavale/guaratingueta/): Rua Pedro Marcondes, 63, Centro, Guaratinguetá, SP, CEP 12500-340. Telefone (12) 3122-3100. WhatsApp (12) 99746-2055. Horário: Segunda a sexta: 8h15 às 18h15; Sábado: 8h15 às 13h; Domingo: Fechada. Farmacêutica responsável: Jaqueline de Sousa Siqueira, CRF-SP 101970. AFE Anvisa 7.13018-8.
+- [Farmavale Cruzeiro](https://autarktech.com.br/farmavale/cruzeiro/): Rua Coronel José de Castro, 588, Centro, Cruzeiro, SP, CEP 12701-450. Telefone (12) 3144-0655. WhatsApp (12) 99758-7933. Horário: Segunda a sexta: 8h às 19h; Sábado: 8h às 13h; Domingo: Fechada. Farmacêutica responsável: Maria Estela da Silva Ramos, CRF-SP 40398. AFE Anvisa 7.20888-1.
+
+## Páginas
+
+- [Como funciona e dúvidas frequentes](https://autarktech.com.br/farmavale/#duvidas)
+- [Orientações para o paciente](https://autarktech.com.br/farmavale/orientacoes/): como fotografar a receita, ler o rótulo, guardar a fórmula e descartar medicamento vencido
+- [Para prescritores](https://autarktech.com.br/farmavale/prescritores/): canal técnico para médicos, dentistas e nutricionistas
+- [Nossa história](https://autarktech.com.br/farmavale/historia/)
+- [Política de privacidade](https://autarktech.com.br/farmavale/privacidade/)
+
+## Dados da empresa
+
+- Razão social: Farmavale Lorena Ltda. CNPJ 04.333.377/0001-13.
+- Formas de pagamento nas três unidades: cartão de crédito, cartão de débito e aproximação.
+- Por regra da Anvisa (RDC 96/2008), a farmácia não divulga fórmulas nem princípios ativos ao público.
